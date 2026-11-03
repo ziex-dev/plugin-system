@@ -1,0 +1,11 @@
+.{
+    .name = .plugin_system,
+    .version = "0.0.0",
+    .fingerprint = 0xbc2556375a0d784b,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
